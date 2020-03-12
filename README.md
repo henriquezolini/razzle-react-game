@@ -5,7 +5,7 @@
 Baixe o exemplo [ou clone este projeto](https://github.com/henriquezolini/razzle-react-game.git):
 
 ```bash
-curl https://codeload.github.com/henriquezolini/razzle-react-game/tar.gz/master
+git clone https://github.com/henriquezolini/razzle-react-game.git
 cd razzle-react-game
 ```
 
